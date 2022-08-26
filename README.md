@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Mohammad Oliullah
 #### Learning FrontEnd Web Development at Programming Hero
-![Learning FrontEnd Web Development at Programming Hero](https://scontent.fdac1-1.fna.fbcdn.net/v/t39.30808-6/268254364_2885779988379453_1850191543519135695_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGu9kpkpou98m9f5PWcJczyUmaLDjWfIsRSZosONZ8ixO5hhiWBCCImu4GnmsbvtIC3kkT5MgeLfai6MnHz6pMM&_nc_ohc=7mWyrMi233YAX-u88QY&_nc_zt=23&_nc_ht=scontent.fdac1-1.fna&oh=00_AT9eBQo-SpJnuFON5ecx2lF5ec2Ja6_yv8DGzClUt1l9_A&oe=630E1646)
 
 I'm curious to know and learn new technologies everyday
 
