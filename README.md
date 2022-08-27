@@ -24,3 +24,5 @@ Skills: JavaScript/ HTML5 / CSS3/Bootstrap/Tailwind/Sass/Python
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Oliulla)  
 
 ![Profile views](https://gpvc.arturio.dev/Oliulla)  
+
+<figure><embed src="https://wakatime.com/share/@oliullah/708021ca-7f6d-44e7-9a81-8c35c656cc3d.svg"></embed></figure>
