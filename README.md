@@ -27,4 +27,5 @@ Skills: JavaScript/ HTML5 / CSS3/Bootstrap/Tailwind/Sass/Python
 
 <figure><embed src="https://wakatime.com/share/@oliullah/6608de1a-67b3-4969-a7dd-c1403d42be4e.svg"></embed></figure>
 
+##### Total Time Of Coding
 [![wakatime](https://wakatime.com/badge/user/39bf1298-9e9c-47fd-b4a6-77a1f8eb2813.svg)](https://wakatime.com/@39bf1298-9e9c-47fd-b4a6-77a1f8eb2813)
