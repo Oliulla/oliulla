@@ -25,4 +25,4 @@ Skills: JavaScript/ HTML5 / CSS3/Bootstrap/Tailwind/Sass/Python
 
 ![Profile views](https://gpvc.arturio.dev/Oliulla)  
 
-<figure><embed src="https://wakatime.com/share/@oliullah/708021ca-7f6d-44e7-9a81-8c35c656cc3d.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@oliullah/6608de1a-67b3-4969-a7dd-c1403d42be4e.svg"></embed></figure>
