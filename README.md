@@ -29,3 +29,5 @@ Skills: JavaScript/ HTML5 / CSS3/Bootstrap/Tailwind/Sass/Python
 
 ##### Since August 27 2022
 [![wakatime](https://wakatime.com/badge/user/39bf1298-9e9c-47fd-b4a6-77a1f8eb2813.svg)](https://wakatime.com/@39bf1298-9e9c-47fd-b4a6-77a1f8eb2813)
+
+<a href="https://wakatime.com/@39bf1298-9e9c-47fd-b4a6-77a1f8eb2813"><img src="https://wakatime.com/badge/user/39bf1298-9e9c-47fd-b4a6-77a1f8eb2813.svg" alt="Total time coded since Aug 27 2022" /></a>
