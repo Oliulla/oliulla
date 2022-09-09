@@ -11,7 +11,7 @@ Skills: JavaScript/ HTML5 / CSS3/Bootstrap/Tailwind/Sass/Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Oliulla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/oliullah0011)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Oliulla)](https://github.com/ryo-ma/github-profile-trophy)
+<-- [![trophy](https://github-profile-trophy.vercel.app/?username=Oliulla)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliulla)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,7 +23,7 @@ Skills: JavaScript/ HTML5 / CSS3/Bootstrap/Tailwind/Sass/Python
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Oliulla)  
 
-![Profile views](https://gpvc.arturio.dev/Oliulla)  
+<-- ![Profile views](https://gpvc.arturio.dev/Oliulla) -->  
 
 <figure><embed src="https://wakatime.com/share/@oliullah/6608de1a-67b3-4969-a7dd-c1403d42be4e.svg"></embed></figure>
 
