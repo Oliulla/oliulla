@@ -10,7 +10,7 @@ Skills: JavaScript/ HTML5 / CSS3/Bootstrap/Tailwind/Sass/Python
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Oliulla)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/oliullah0011)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twiteer.svg' alt='twiteer' height='40'>](https://www.twiteer.com/oliulla22093898)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/oliulla22093898)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliulla)](https://github.com/anuraghazra/github-readme-stats)
 
