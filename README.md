@@ -1,5 +1,5 @@
 ### Hi, I'm Mohammad Oliullah
-#### Learning FrontEnd Web Development at Programming Hero
+#### Learning FrontEnd Web Development With Programming Hero
 
 I'm curious to know and learn new technologies everyday
 
