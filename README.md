@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Oliullah</h1>
 <h3 align="center">A self-taught frontend web developer</h3>
-<img align="right" width="400" src="https://scontent.fdac34-1.fna.fbcdn.net/v/t39.30808-6/268254364_2885779988379453_1850191543519135695_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGu9kpkpou98m9f5PWcJczyUmaLDjWfIsRSZosONZ8ixO5hhiWBCCImu4GnmsbvtIC3kkT5MgeLfai6MnHz6pMM&_nc_ohc=BMHBKrv1GlAAX8eNrhb&_nc_zt=23&_nc_ht=scontent.fdac34-1.fna&oh=00_AT_ftcsNFjU2JcoJRLuMpmFyNA3QvCZRRY5omGb_UMjGyQ&oe=632BC006" />
+<img align="right" width="400" src="https://scontent.fdac96-1.fna.fbcdn.net/v/t39.30808-6/268254364_2885779988379453_1850191543519135695_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGu9kpkpou98m9f5PWcJczyUmaLDjWfIsRSZosONZ8ixO5hhiWBCCImu4GnmsbvtIC3kkT5MgeLfai6MnHz6pMM&_nc_ohc=sLa3Ovz9IvAAX84sy2M&_nc_zt=23&_nc_ht=scontent.fdac96-1.fna&oh=00_AT85A6mHs0OxCKDUEmCvbWI7W0EEOKXEuVxC5vbcFQkOww&oe=63437B06" />
 
 - 🔭 I’m currently working on **self development**
 
