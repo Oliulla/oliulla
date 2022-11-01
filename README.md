@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Oliullah</h1>
 <h3 align="center">A self-taught frontend web developer</h3>
-<img align="right" width="400" src="https://ibb.co/rQs0TCK" />
+<img align="right" width="400" src="https://i.ibb.co/sgHRk0p/my-img.jpg" />
 
 - 🔭 I’m currently working on **self development**
 
