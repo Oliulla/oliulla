@@ -30,9 +30,7 @@
 ##### Since August 27 2022
 [![wakatime](https://wakatime.com/badge/user/39bf1298-9e9c-47fd-b4a6-77a1f8eb2813.svg)](https://wakatime.com/@39bf1298-9e9c-47fd-b4a6-77a1f8eb2813)
 
-<p align='center' >
-<img src="https://wakatime.com/share/@oliullah/0c994ff4-d25e-4d63-9966-8ba96411b8da.png" />
-</p>
+<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@oliullah/51757279-d947-4beb-b8ab-d7903c5ba50a.png" /></a></p>
 
 <!-- <a href="https://wakatime.com/@39bf1298-9e9c-47fd-b4a6-77a1f8eb2813"><img src="https://wakatime.com/badge/user/39bf1298-9e9c-47fd-b4a6-77a1f8eb2813.svg" alt="Total time coded since Aug 27 2022" /></a> -->
 
