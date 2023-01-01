@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Oliullah</h1>
 <h3 align="center">A self-taught frontend web developer</h3>
 <!-- <img align="right" width="400" src="https://i.ibb.co/sgHRk0p/my-img.jpg" /> -->
-<img align="right" width="400" src="https://drive.google.com/file/d/1mY2Rxn58L6xPzGPvw3LXLQK1BhzdNVTT/view?usp=sharing" />
+<img align="right" width="400" src="https://i.ibb.co/zns1zkf/github.jpg" />
 
 - 🔭 I’m currently working on **self development**
 
