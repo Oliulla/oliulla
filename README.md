@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **self development**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **NodeJs Mongodb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
