@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Oliullah</h1>
-<h3 align="center">A self-taught frontend web developer</h3>
+<h3 align="center">A self-taught MERN Stack web developer</h3>
 <img align="right" width="400" src="https://i.ibb.co/sgHRk0p/my-img.jpg" />
 
 
