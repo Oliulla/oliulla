@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Oliullah</h1>
-<h3 align="center">A self-taught MERN Stack web developer</h3>
+<h3 align="center">A self-taught Full Stack web developer</h3>
 <img align="right" width="400" src="https://i.ibb.co/sgHRk0p/my-img.jpg" />
 
 
-- 🔭 I’m currently working on **Self Development**
+- 🔭 I’m currently working on **MN TECH DIGITAL** at position Front End Developer.
 
 - 🌱 I’m currently learning **Redux Node MySQL**
 
