@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Self Development**
 
-- 🌱 I’m currently learning **Redux Node MongoDB**
+- 🌱 I’m currently learning **Redux Node MySQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
