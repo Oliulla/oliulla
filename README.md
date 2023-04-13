@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MN TECH DIGITAL** at position Front End Developer.
 
-- 🌱 I’m currently learning **Redux Node MySQL**
+- 🌱 I’m currently learning **Redux TypeScript NextJs MySQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
