@@ -3,9 +3,9 @@
 <img align="right" width="400" src="https://i.ibb.co/sgHRk0p/my-img.jpg" />
 
 
-- 🔭 I’m currently working on **MN TECH DIGITAL** at position Front End Developer.
+- Working on **MN TECH DIGITAL** at position Front End Developer.
 
-- 🌱 I’m currently learning **Redux TypeScript NextJs MySQL**
+- Continuous Learner
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
