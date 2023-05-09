@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://i.ibb.co/sgHRk0p/my-img.jpg" />
 
 
-- Working on **MN TECH DIGITAL** at position Front End Developer.
+- Working on **MN TECH DIGITAL** at position Full-stack Developer.
 
 - Continuous Learner
 
