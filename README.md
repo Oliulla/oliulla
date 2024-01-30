@@ -1,31 +1,70 @@
-<h1 align="center">Hello, I'm Oliullah</h1>
-<h3 align="center">A self-taught Full Stack web developer</h3>
-<img align="right" width="400" src="https://i.ibb.co/sgHRk0p/my-img.jpg" />
+### Hello! I am [Mohammad Oliullah][website] ✅
+## A Self-enthusiastic Full-stack Developer 🚀🚀
+- 💻 Worked at [MNTECH DIGITAL][job]
+- 🌱 Learning new things everyday
+- 📫 How to reach me [@Mohammad Oliullah][linkedin]
+<!-- - ⚡ Fun fact:  ✌✌️ -->
 
+### Connect with me ☕:
 
-- Worked at MNTECH DIGITAL as Full-stack Developer (Feb 2023 - Oct 2023).
-- Continuous Learner
+[![Linkedin Badge][linkedin_img]][linkedin]
+[![Leetcode Badge][leetcode_img]][leetcode]
+[![Codeforces Badge][codeforces_img]][codeforces]
+[![Stack Overflow Badge][stackoverflow_img]][stackoverflow]
+<!-- [![Medium Badge][medium_img]][medium] -->
+[![Dev Badge][dev_img]][dev]
+<!-- [![Youtube Badge][youtube_img]][youtube] -->
+[![Instagram Badge][instagram_img]][instagram]
+[![Mail Badge][mail_img]][mail]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammad-oliullah-4421aa212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-oliullah-4421aa212" height="30" width="40" /></a>
-<a href="https://twitter.com/oliulla22093898" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oliulla22093898" height="30" width="40" /></a>
-<a href="https://fb.com/oliullah0011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oliullah0011" height="30" width="40" /></a>
-<a href="https://instagram.com/an_oliullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="an_oliullah" height="30" width="40" /></a>
-</p>
+### Things I code with:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<!--   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[![Typescript Badge][typescript_img]](#)
+[![Javascript Badge][javascript_img]](#)
+[![Javascript Badge][javascript_img]](#)
+[![Javascript Badge][javascript_img]](#)
+[![Javascript Badge][javascript_img]](#)
+<!-- [![Angular Badge][angular_img]](#) -->
 
+[![MongoDB Badge][mongoDB_img]](#)
+
+[![Node.js Badge][nodejs_img]](#)
+[![Express.jd Badge][expressjs_img]](#)
+
+[![React Badge][react_img]](#)
+[![Next.js Badge][nextjs_img]](#)
+[![Redux Badge][redux_img]](#)
+[![Tailwind Badge][tailwind_img]](#)
+[![SASS Badge][sass_img]](#)
+[![Styled-components Badge][styledComponents_img]](#)
+[![Bootstrap Badge][bootstrap_img]](#)
+[![Material-UI Badge][material_ui_img]](#)
+
+[![Firebase Badge][firebase_img]](#)
+[![NPM Badge][npm_img]](#)
+[![Yarn Badge][yarn_img]](#)
+[![VSCode Badge][vscode_img]](#)
+[![Git Badge][git_img]](#)
+<!-- [![Linux Badge][linux_img]](#) -->
+<!-- [![Ubuntu Badge][ubuntu_img]](#) -->
+
+<!-- ### Profile Visits 
+
+[![visitors][visitors]]() -->
+
+[![Github stats][github_stats]]()
+
+[![Most used angguages][most_used_languages]]()
+
+<!-- ### Coding activity of last year (VS Code Only)
+[![Wakatime](https://wakatime.com/badge/user/4636b4d3-b3ea-4729-bb1f-75461e68770b.svg)](https://wakatime.com/@4636b4d3-b3ea-4729-bb1f-75461e68770b)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@muhidhossain&theme=nightowl&layout=compact&v=2)]() -->
 
 ##### Since August 27 2022
 [![wakatime](https://wakatime.com/badge/user/39bf1298-9e9c-47fd-b4a6-77a1f8eb2813.svg)](https://wakatime.com/@39bf1298-9e9c-47fd-b4a6-77a1f8eb2813)
 
 <p height=400px"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@oliullah/51757279-d947-4beb-b8ab-d7903c5ba50a.png" /><a></p>
-
-<!-- <a href="https://wakatime.com/@39bf1298-9e9c-47fd-b4a6-77a1f8eb2813"><img src="https://wakatime.com/badge/user/39bf1298-9e9c-47fd-b4a6-77a1f8eb2813.svg" alt="Total time coded since Aug 27 2022" /></a> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliulla&show_icons=true&locale=en&layout=compact" alt="oliulla" /></p>
 
@@ -35,3 +74,57 @@
 
 
 <figure><embed src="https://wakatime.com/share/@oliullah/6608de1a-67b3-4969-a7dd-c1403d42be4e.svg"></embed></figure>
+
+
+[website]: https://oliullah-portfolio.netlify.app/
+[job]: https://mntechdigital.com/
+
+[linkedin]: https://www.linkedin.com/in/mohammad-oliullah-4421aa212/
+[leetcode]: https://leetcode.com/Oliulla/
+[codeforces]: https://codeforces.com/profile/Mohammad_Oliullah
+[stackoverflow]: https://stackoverflow.com/users/18605837/md-oliullah-sarder
+<!-- [medium]: https://muhidhossain.medium.com -->
+[dev]: https://dev.to/oliullah
+<!-- [youtube]: https://www.youtube.com/channel/UCswEDubzQ5DmaPzE3YusgUQ -->
+[instagram]: https://www.instagram.com/an_oliullah/
+[mail]: mailto:mohammad.oliullah25@gmail.com
+
+[linkedin_img]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[leetcode_img]: https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
+[codeforces_img]: https://codeforces.org/s/67276/images/codeforces-sponsored-by-ton.png
+[stackoverflow_img]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
+<!-- [medium_img]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white -->
+[dev_img]: https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
+<!-- [youtube_img]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white -->
+[instagram_img]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[mail_img]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+[javascript_img]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[typescript_img]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+[angular_img]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[react_img]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[nextjs_img]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[redux_img]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+[tailwind_img]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[sass_img]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
+[styledComponents_img]: https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
+[bootstrap_img]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[material_ui_img]: https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white
+[nodejs_img]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+[expressjs_img]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+[mongoDB_img]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+[firebase_img]: https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
+[npm_img]: https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+[yarn_img]: https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white
+[vscode_img]: https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+[git_img]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+<!-- [linux_img]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[ubuntu_img]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white -->
+
+
+[github_stats]: https://github-readme-stats-sigma-five.vercel.app//api?username=Oliulla&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl
+
+[most_used_languages]: https://github-readme-stats-sigma-five.vercel.app//api/top-langs/?username=Oliulla&hide=stylus&count_private=true&card_width=495&theme=nightowl
+
+
+
