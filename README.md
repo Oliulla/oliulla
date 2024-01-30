@@ -53,16 +53,9 @@
 [![VSCode Badge][vscode_img]](#)
 [![Git Badge][git_img]](#)
 
-<!-- [![Linux Badge][linux_img]](#) -->
-<!-- [![Ubuntu Badge][ubuntu_img]](#) -->
-
-<!-- ### Profile Visits
-
-[![visitors][visitors]]() -->
-
 [![Github stats][github_stats]]()
 
-[![Most used angguages][most_used_languages]]()
+[![Most used Langguages][most_used_languages]]()
 
 <!-- ### Coding activity of last year (VS Code Only)
 [![Wakatime](https://wakatime.com/badge/user/4636b4d3-b3ea-4729-bb1f-75461e68770b.svg)](https://wakatime.com/@4636b4d3-b3ea-4729-bb1f-75461e68770b)
@@ -83,20 +76,14 @@
 [job]: https://mntechdigital.com/
 [linkedin]: https://www.linkedin.com/in/mohammad-oliullah-4421aa212/
 [leetcode]: https://leetcode.com/Oliulla/
-[codeforces]: https://codeforces.com/profile/Mohammad_Oliullah
-[stackoverflow]: https://stackoverflow.com/users/18605837/md-oliullah-sarder
-
-<!-- [medium]: https://muhidhossain.medium.com -->
-
-[dev]: https://dev.to/oliullah
-
-<!-- [youtube]: https://www.youtube.com/channel/UCswEDubzQ5DmaPzE3YusgUQ -->
-
+[codeforces]: https://codeforces.com/profile/Mohammad_Oliullah/
+[stackoverflow]: https://stackoverflow.com/users/18605837/md-oliullah-sarder/
+[dev]: https://dev.to/oliullah/
 [instagram]: https://www.instagram.com/an_oliullah/
-[mail]: mailto:mohammad.oliullah25@gmail.com
+[mail]: mailto:mohammad.oliullah25@gmail.com/
 [linkedin_img]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [leetcode_img]: https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
-[codeforces_img]: https://codeforces.org/s/67276/images/codeforces-sponsored-by-ton.png
+[codeforces_img]: https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Codeforces&logoColor=black
 [stackoverflow_img]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 
 <!-- [medium_img]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white -->
