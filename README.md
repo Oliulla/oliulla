@@ -17,41 +17,74 @@
 [![Instagram Badge][instagram_img]][instagram]
 [![Mail Badge][mail_img]][mail]
 
-### Things I code with:
+### I code with:
 
 [![Typescript Badge][typescript_img]](#)
 [![Javascript Badge][javascript_img]](#)
-[![Javascript Badge][javascript_img]](#)
-[![Javascript Badge][javascript_img]](#)
-[![Javascript Badge][javascript_img]](#)
+[![SQL Badge][sql_img]](#)
+[![Python Badge][python_img]](#)
+[![C++ Badge][cpp_img]](#)
+[![C Badge][c_img]](#)
 
-<!-- [![Angular Badge][angular_img]](#) -->
+### I manage database with:
 
+[![MySQL Badge][mysql_img]](#)
+[![SQLite Badge][sqlite_img]](#)
 [![MongoDB Badge][mongodb_img]](#)
+[![Prisma Badge][prisma_img]](#)
+[![Mongoose Badge][mongoose_img]](#)
+[![Sequelize Badge][sequelize_img]](#)
+
+### I build Backend architecture with:
+
 [![Node.js Badge][nodejs_img]](#)
-[![Express.jd Badge][expressjs_img]](#)
-[![React Badge][react_img]](#)
-[![Next.js Badge][nextjs_img]](#)
+[![Express.js Badge][expressjs_img]](#)
+[![NPM Badge][npm_img]](#)
+[![Django Badge][django_img]](#)
+
+### I handle Authentication & Authorization with:
+
+[![JWT Badge][jwt_img]](#)
+[![Nextauth Badge][nextauth_img]](#)
+[![oAuth2 Badge][oauth2_img]](#)
+[![Firebase Badge][firebase_img]](#)
+[![Browser Cookies Badge][browser_cookies_img]](#)
+
+### I handle State Management of user in Frontend with:
+
 [![Redux Badge][redux_img]](#)
+[![React-Redux Badge][react_redux_img]](#)
+[![Redux-Toolkit Badge][redux_toolkit_img]](#)
+[![React-Context-Api Badge][context_api_img]](#)
+
+### I build Frontend architecture with:
+
+[![Next.js Badge][nextjs_img]](#)
+[![React Badge][react_img]](#)
 [![Tailwind Badge][tailwind_img]](#)
 [![SASS Badge][sass_img]](#)
 [![Styled-components Badge][styledcomponents_img]](#)
 [![Bootstrap Badge][bootstrap_img]](#)
 [![Material-UI Badge][material_ui_img]](#)
-[![Firebase Badge][firebase_img]](#)
-[![NPM Badge][npm_img]](#)
+[![Flowbit Badge][flowbit_img]](#)
+
+### I controll code with:
+
 [![Yarn Badge][yarn_img]](#)
 [![VSCode Badge][vscode_img]](#)
 [![Git Badge][git_img]](#)
+
+### I mange project with:
+
+[![Jira Badge][jira_img]](#)
+[![Trello Badge][trello_img]](#)
+[![Clickup Badge][clickup_img]](#)
+[![Desklog Badge][desklog_img]](#)
+
 [![Github stats][github_stats]]()
 [![Most used Langguages][most_used_languages]]()
 
-<!-- ### Coding activity of last year (VS Code Only)
-[![Wakatime](https://wakatime.com/badge/user/4636b4d3-b3ea-4729-bb1f-75461e68770b.svg)](https://wakatime.com/@4636b4d3-b3ea-4729-bb1f-75461e68770b)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@muhidhossain&theme=nightowl&layout=compact&v=2)]() -->
-
-##### Since August 27 2022
+#### Since August 27 2022
 
 [![wakatime](https://wakatime.com/badge/user/39bf1298-9e9c-47fd-b4a6-77a1f8eb2813.svg)](https://wakatime.com/@39bf1298-9e9c-47fd-b4a6-77a1f8eb2813)
 
@@ -61,32 +94,55 @@
 
 <figure><embed src="https://wakatime.com/share/@oliullah/6608de1a-67b3-4969-a7dd-c1403d42be4e.svg"></embed></figure>
 
+<!-- Portfolio -->
+
 [website]: https://oliullah-portfolio.netlify.app/
+
+<!-- Prev Office -->
+
 [job]: https://mntechdigital.com/
+
+<!-- Linkedin profile in bio -->
+
 [linkedin]: https://www.linkedin.com/in/mohammad-oliullah-4421aa212/
+
+<!-- Connect with me Links-->
+
 [leetcode]: https://leetcode.com/Oliulla/
 [codeforces]: https://codeforces.com/profile/Mohammad_Oliullah/
 [stackoverflow]: https://stackoverflow.com/users/18605837/md-oliullah-sarder/
 [dev]: https://dev.to/oliullah/
 [instagram]: https://www.instagram.com/an_oliullah/
 [mail]: mailto:mohammad.oliullah25@gmail.com/
+
+<!-- Connect with me imgs -->
+
 [linkedin_img]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [leetcode_img]: https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
 [codeforces_img]: https://img.shields.io/badge/-Codeforces-1A91CF?style=for-the-badge&logo=Codeforces&logoColor=black
 [stackoverflow_img]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
-
-<!-- [medium_img]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white -->
-
 [dev_img]: https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white
-
-<!-- [youtube_img]: https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white -->
-
 [instagram_img]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [mail_img]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[javascript_img]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+
+<!-- Language and technology imgs -->
+
 [typescript_img]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-[angular_img]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[react_img]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[javascript_img]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[sql_img]: https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white
+[python_img]: https://img.shields.io/badge/Python-3873A3?style=for-the-badge&logo=python&logoColor=white
+[cpp_img]: https://img.shields.io/badge/C++-6295CB?style=for-the-badge&logo=c++&logoColor=white
+[c_img]: https://img.shields.io/badge/C-6295CB?style=for-the-badge&logo=c&logoColor=white
+[mysql_img]: https://img.shields.io/badge/MySQL-6295CB?style=for-the-badge&logo=mysql&logoColor=white
+[sqlite_img]: https://img.shields.io/badge/SQLite-6295CB?style=for-the-badge&logo=sqlite&logoColor=white
+[prisma_img]: https://img.shields.io/badge/Prisma-6295CB?style=for-the-badge&logo=prisma&logoColor=white
+[mongoose_img]: https://img.shields.io/badge/Mongoose-6295CB?style=for-the-badge&logo=mongoose&logoColor=white
+[sequelize_img]: https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=sequelize&logoColor=61DAFB
+[django_img]: https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=61DAFB
+[jwt_img]: https://img.shields.io/badge/Jwt-token-20232A?style=for-the-badge&logo=jwt-token&logoColor=61DAFB
+[react_redux_img]: https://img.shields.io/badge/React-Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+[redux_toolkit_img]: https://img.shields.io/badge/Redux-Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white
+[context_api_img]: https://img.shields.io/badge/Context-Api-593D88?style=for-the-badge&logo=react-context-api&logoColor=white
 [nextjs_img]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [redux_img]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
 [tailwind_img]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
