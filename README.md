@@ -46,7 +46,7 @@
 
 [![JWT Badge][jwt_img]](#)
 [![Nextauth Badge][nextauth_img]](#)
-[![oAuth2 Badge][oauth2_img]](#)
+[![oAuth2 Badge][oauth_img]](#)
 [![Firebase Badge][firebase_img]](#)
 [![Browser Cookies Badge][browser_cookies_img]](#)
 
@@ -139,13 +139,22 @@
 [mongoose_img]: https://img.shields.io/badge/Mongoose-6295CB?style=for-the-badge&logo=mongoose&logoColor=white
 [sequelize_img]: https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=sequelize&logoColor=61DAFB
 [django_img]: https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=61DAFB
-[jwt_img]: https://img.shields.io/badge/Jwt-token-20232A?style=for-the-badge&logo=jwt-token&logoColor=61DAFB
-[react_redux_img]: https://img.shields.io/badge/React-Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
-[redux_toolkit_img]: https://img.shields.io/badge/Redux-Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white
-[context_api_img]: https://img.shields.io/badge/Context-Api-593D88?style=for-the-badge&logo=react-context-api&logoColor=white
+[jwt_img]: https://img.shields.io/badge/JWT_Token-20232A?style=for-the-badge&logo=jwt-token&logoColor=61DAFB
+[react_redux_img]: https://img.shields.io/badge/React_Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+[redux_toolkit_img]: https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white
+[context_api_img]: https://img.shields.io/badge/Context_API-593D88?style=for-the-badge&logo=react-context-api&logoColor=white
+[nextauth_img]: https://img.shields.io/badge/Nextauth-593D88?style=for-the-badge&logo=nextauth&logoColor=white
+[oauth_img]: https://img.shields.io/badge/oAuth2-593D88?style=for-the-badge&logo=oauth&logoColor=white
 [nextjs_img]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [redux_img]: https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+[react_img]: https://img.shields.io/badge/React-593D88?style=for-the-badge&logo=react&logoColor=white
 [tailwind_img]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[flowbit_img]: https://img.shields.io/badge/Flowbit-38B2AC?style=for-the-badge&logo=flowbit&logoColor=white
+[browser_cookies_img]: https://img.shields.io/badge/Browser_Cookies-38B2AC?style=for-the-badge&logo=cookies&logoColor=white
+[jira_img]: https://img.shields.io/badge/Jira-38B2AC?style=for-the-badge&logo=jira&logoColor=white
+[trello_img]: https://img.shields.io/badge/Trello-38B2AC?style=for-the-badge&logo=trello&logoColor=white
+[clickup_img]: https://img.shields.io/badge/Click_UP-38B2AC?style=for-the-badge&logo=clickup&logoColor=white
+[desklog_img]: https://img.shields.io/badge/Desklog-38B2AC?style=for-the-badge&logo=desklog&logoColor=white
 [sass_img]: https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
 [styledcomponents_img]: https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
 [bootstrap_img]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
