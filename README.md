@@ -13,13 +13,7 @@
 [![Leetcode Badge][leetcode_img]][leetcode]
 [![Codeforces Badge][codeforces_img]][codeforces]
 [![Stack Overflow Badge][stackoverflow_img]][stackoverflow]
-
-<!-- [![Medium Badge][medium_img]][medium] -->
-
 [![Dev Badge][dev_img]][dev]
-
-<!-- [![Youtube Badge][youtube_img]][youtube] -->
-
 [![Instagram Badge][instagram_img]][instagram]
 [![Mail Badge][mail_img]][mail]
 
@@ -34,10 +28,8 @@
 <!-- [![Angular Badge][angular_img]](#) -->
 
 [![MongoDB Badge][mongodb_img]](#)
-
 [![Node.js Badge][nodejs_img]](#)
 [![Express.jd Badge][expressjs_img]](#)
-
 [![React Badge][react_img]](#)
 [![Next.js Badge][nextjs_img]](#)
 [![Redux Badge][redux_img]](#)
@@ -46,15 +38,12 @@
 [![Styled-components Badge][styledcomponents_img]](#)
 [![Bootstrap Badge][bootstrap_img]](#)
 [![Material-UI Badge][material_ui_img]](#)
-
 [![Firebase Badge][firebase_img]](#)
 [![NPM Badge][npm_img]](#)
 [![Yarn Badge][yarn_img]](#)
 [![VSCode Badge][vscode_img]](#)
 [![Git Badge][git_img]](#)
-
 [![Github stats][github_stats]]()
-
 [![Most used Langguages][most_used_languages]]()
 
 <!-- ### Coding activity of last year (VS Code Only)
@@ -83,7 +72,7 @@
 [mail]: mailto:mohammad.oliullah25@gmail.com/
 [linkedin_img]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [leetcode_img]: https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black
-[codeforces_img]: https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=Codeforces&logoColor=black
+[codeforces_img]: https://img.shields.io/badge/-Codeforces-1A91CF?style=for-the-badge&logo=Codeforces&logoColor=black
 [stackoverflow_img]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 
 <!-- [medium_img]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white -->
