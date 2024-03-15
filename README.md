@@ -2,10 +2,11 @@
 
 ## A Self-enthusiastic Full-stack Developer 🚀🚀
 
-- 💻 Worked at [MNTECH DIGITAL][job]
+- 💻 Currently working as Junior Backend Developer at [HawkEyes Digital Monitoring Ltd][job2]
+- 💻 Former Full-stack Developer of [MNTECH DIGITAL][job]
 - 🌱 Learning new things everyday
 - 📫 How to reach me [@Mohammad Oliullah][linkedin]
-<!-- - ⚡ Fun fact:  ✌✌️ -->
+- ⚡ Hobbies: Cricket, Football, Gaming, and Gossip
 
 ### Connect with me ☕:
 
@@ -101,6 +102,7 @@
 <!-- Prev Office -->
 
 [job]: https://mntechdigital.com/
+[job2]: https://www.hedigital.tech/
 
 <!-- Linkedin profile in bio -->
 
